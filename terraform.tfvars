@@ -1,0 +1,5 @@
+ami = ""
+instance_type = "t2.micro"
+azs = ""
+name = "Terraform instance"
+region = "ap-south-1"
